@@ -1,0 +1,10 @@
+C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\bin\Debug\bd(osan).exe.config
+C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\bin\Debug\bd(osan).exe
+C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\bin\Debug\bd(osan).pdb
+C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\obj\x86\Debug\bd_osan_.Form1.resources
+C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\obj\x86\Debug\bd_osan_.Properties.Resources.resources
+C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\obj\x86\Debug\bd(osan).exe
+C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\obj\x86\Debug\bd(osan).pdb
