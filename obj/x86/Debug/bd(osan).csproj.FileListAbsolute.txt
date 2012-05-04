@@ -8,3 +8,6 @@ C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\obj\x86\D
 C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\obj\x86\Debug\bd(osan).exe
 C:\Users\Ankip\Documents\Visual Studio 2010\Projects\bd(osan)\bd(osan)\obj\x86\Debug\bd(osan).pdb
+D:\Учеба БНТУ\4 курс\8 сем\БД\bd(osan)\bd\bin\Debug\bd(osan).exe.config
+D:\Учеба БНТУ\4 курс\8 сем\БД\bd(osan)\bd\obj\x86\Debug\bd(osan).exe
+D:\Учеба БНТУ\4 курс\8 сем\БД\bd(osan)\bd\obj\x86\Debug\bd(osan).pdb
